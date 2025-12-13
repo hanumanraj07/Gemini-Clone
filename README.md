@@ -1,3 +1,5 @@
+YouTube Video Link: https://youtu.be/GuV-RK_G9Vs?si=71_PbfuA8WfTF8zA
+
 Gemini Exchange Clone – Cryptocurrency Trading Platform UI (Educational Project)
 
 A fully responsive and modern frontend clone of the Gemini cryptocurrency exchange. This project recreates the UI/UX of Gemini’s trading platform, including dashboards, market pages, crypto listings, and clean minimalist layouts.
